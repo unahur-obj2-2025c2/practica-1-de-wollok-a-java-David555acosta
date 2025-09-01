@@ -28,7 +28,7 @@ public class Usuario {
         this.plan = plan;
     }
 
-    public List<Contenido> getContenidos() {
+    public List<Contenido> getContenido() {
         return new ArrayList<Contenido>();
     }
 
